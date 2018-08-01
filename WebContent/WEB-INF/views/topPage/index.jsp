@@ -5,12 +5,3 @@
         <h2>日報管理システムへようこそ</h2>
     </c:param>
 </c:import>
-<html lang="ja">
-    <head>
-        <meta charset="UTF-8">
-        <title>Insert title here</title>
-    </head>
-    <body>
-
-    </body>
-</html>
